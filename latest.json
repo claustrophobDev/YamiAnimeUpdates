@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9",
-    "url":  "https://github.com/claustrophobDev/YamiAnimeUpdates/releases/download/v1.0.9/YamiAnime-1.0.9.zip",
-    "sha256":  "fe28e4ef77a00a464b785546ca7335e9eb7c6edd039c8eeeed879121123799d8",
-    "notes":  "Тест обновления"
+    "version":  "1.0.10",
+    "url":  "https://github.com/claustrophobDev/YamiAnimeUpdates/releases/download/v1.0.10/YamiAnime-1.0.10.zip",
+    "sha256":  "8fd4d746d2b021ebfdef8a804c1a45eb997d6227ff8784b7609263d62ed53977",
+    "notes":  "Исправлена иконка приложения"
 }
